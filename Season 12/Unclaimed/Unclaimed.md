@@ -9,7 +9,5 @@ The writeup will be released once the machine is retired.
 ---
 
 <div align="center">
-  <a href="https://labs.hackthebox.com/achievement/machine/2127339/1012">
-    <img src="Images/Unclaimed%20-%20pwned.png" width="600" alt="Unclaimed has been Pwned">
-  </a>
+  <img src="Images/Unclaimed%20-%20pwned.png" width="600" alt="Unclaimed has been Pwned">
 </div>

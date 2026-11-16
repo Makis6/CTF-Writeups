@@ -1,5 +1,5 @@
 
-![[devvortex logo.png]]
+<img src="Images/devvortex%20logo.png" width="240">
 
 
 ```

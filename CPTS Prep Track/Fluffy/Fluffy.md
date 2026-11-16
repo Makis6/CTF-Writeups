@@ -37,7 +37,7 @@ j.fleischman (creds donnés)
 	- [Shadow Credentials Attack on ca_svc](#shadow-credentials-attack-on-ca_svc)
 	- [Certificate Template](#certificate-enumeration)
 		- [Modify UPN of ca_svc](#modify-upn-of-ca_svc)
-		- [BONUS Retrieve TGT and hash](#bonus-retrieve-tgt-and-hash)
+		- [BONUS Retrieve TGT and hash](#bonus--retrieve-tgt-and-hash)
 		- [Request administrator's certificate](#request-administrators-certificate)
 
 ---

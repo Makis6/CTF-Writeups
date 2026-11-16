@@ -1,5 +1,5 @@
 
-![[blue logo.png]]
+<img src="Images/blue%20logo.png" width="240">
 
 
 ```

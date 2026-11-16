@@ -1,5 +1,5 @@
 
-![[lock logo.png]]
+<img src="Images/lock%20logo.png" width="240">
 
 
 We scan the target

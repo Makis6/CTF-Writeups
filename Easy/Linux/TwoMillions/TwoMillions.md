@@ -1,5 +1,5 @@
 
-![[twomillion logo.png]]
+<img src="Images/twomillion%20logo.png" width="240">
 
 
 nmap scan

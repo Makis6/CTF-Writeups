@@ -1,5 +1,5 @@
 
-![[Data logo.png]]
+<img src="Images/Data%20logo.png" width="240">
 
 
 nmap scan

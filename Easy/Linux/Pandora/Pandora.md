@@ -1,5 +1,5 @@
 
-![[pandora logo.png]]
+<img src="Images/pandora%20logo.png" width="240">
 
 
 ```

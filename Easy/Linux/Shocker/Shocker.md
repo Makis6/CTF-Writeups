@@ -1,5 +1,5 @@
 
-![[shocker logo.png]]
+<img src="Images/shocker%20logo.png" width="240">
 
 nmap scan
 

@@ -1,5 +1,5 @@
 
-![[expressway logo.png]]
+<img src="Images/expressway%20logo.png" width="240">
 
 
 Let's start with a nmap scan

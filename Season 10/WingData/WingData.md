@@ -1,6 +1,6 @@
 
 
-![[wingdata logo.png]]
+<img src="Image/wingdata%20logo.png" width="240">
 
 
 # Enumeration

@@ -1,5 +1,5 @@
 
-![[editor logo.png]]
+<img src="Images/editor%20logo.png" width="240">
 
 
 ```

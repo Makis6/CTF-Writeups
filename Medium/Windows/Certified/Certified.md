@@ -1,5 +1,5 @@
 
-![[certified logo.png]]
+<img src="Images/certified%20logo.png" width="240">
 
 For this box we got the following credentials
 

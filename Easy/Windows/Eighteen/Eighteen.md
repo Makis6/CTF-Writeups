@@ -1,5 +1,5 @@
 
-![[eighteen logo.png]]
+<img src="Images/eighteen%20logo.png" width="240">
 
 
 We start with the following credentials : kevin / iNa2we6haRj2gaw!

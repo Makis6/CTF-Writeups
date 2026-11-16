@@ -1,5 +1,5 @@
 
-![[cicada logo.png]]
+<img src="Images/cicada%20logo.png" width="240">
 
 
 

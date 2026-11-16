@@ -318,7 +318,5 @@ The `chroot("/proc/1/root")` pivot placed us on the host filesystem: `root.txt` 
 | Accounts / sessions used                       | SSH logins `alpine` / `bob`, web session `bob`                         | **Document** (timestamps, IPs) in the report — don't erase logs            |
 
 <div align="center">
-  <a href="https://labs.hackthebox.com/achievement/machine/2127339/1018">
-    <img src="Images/DoubleTake%20-%20pwned.png" width="600" alt="DoubleTake has been Pwned">
-  </a>
+  <img src="Images/DoubleTake%20-%20pwned.png" width="600" alt="DoubleTake has been Pwned">
 </div>

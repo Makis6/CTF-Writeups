@@ -1,5 +1,5 @@
 
-![[CCTV logo.png]]
+<img src="Images/CCTV%20logo.png" width="240">
 
 # Attack Chain
 

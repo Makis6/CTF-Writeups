@@ -1,5 +1,5 @@
 
-![[interpreter logo.png]]
+<img src="Images/interpreter%20logo.png" width="240">
 
 
 ```

@@ -1,5 +1,5 @@
 
-![[access logo.png]]
+<img src="Images/access%20logo.png" width="240">
 
 # Summary
 

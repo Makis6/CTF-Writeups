@@ -1,5 +1,5 @@
 
-![[precious logo.png]]
+<img src="Image/precious%20logo.png" width="240">
 
 
 ![Pasted image 20251016000404](Image/Pasted%20image%2020251016000404.png)

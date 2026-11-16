@@ -1,6 +1,6 @@
 
 
-![[BoardLight Logo.png]]
+<img src="Image/BoardLight%20Logo.png" width="240">
 
 
 

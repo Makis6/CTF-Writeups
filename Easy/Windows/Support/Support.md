@@ -1,5 +1,5 @@
 
-![[support logo.png]]
+<img src="Images/support%20logo.png" width="240">
 
 
 

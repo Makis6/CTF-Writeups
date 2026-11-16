@@ -1,5 +1,5 @@
 
-![[soccer logo.png]]
+<img src="Images/soccer%20logo.png" width="240">
 
 # Summary
 

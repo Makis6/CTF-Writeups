@@ -1,5 +1,5 @@
 
-![[sendai logo.png]]
+<img src="Images/sendai%20logo.png" width="240">
 
 
 
