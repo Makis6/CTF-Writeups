@@ -79,9 +79,11 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - 🔒 [Autopilot](Season%2012/Autopilot/Autopilot.md)
 - 🔒 [DutyBound](Season%2012/DutyBound/DutyBound.md)
 - 🔒 [Layover](Season%2012/Layover/Layover.md)
+- 🔒 [RedEye](Season%2012/RedEye/RedEye.md)
 - 🔒 [Stream](Season%2012/Stream/Stream.md)
 - 🔒 [Takeoff](Season%2012/Takeoff/Takeoff.md)
 - 🔒 [Touch](Season%2012/Touch/Touch.md)
+- 🔒 [Unclaimed](Season%2012/Unclaimed/Unclaimed.md)
 
 ### Easy
 
@@ -91,6 +93,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 - [Chemistry](Easy/Linux/Chemistry/Chemistry.md)
 - [Data](Easy/Linux/Data/Data.md)
 - [Devvortex](Easy/Linux/Devvortex/Devvortex.md)
+- [DoubleTake](Easy/Linux/DoubleTake/DoubleTake.md)
 - [Editor](Easy/Linux/Editor/Editor.md)
 - 🔒 [Management](Easy/Linux/Management/Management.md)
 - [Nexus](Easy/Linux/Nexus/Nexus.md)
