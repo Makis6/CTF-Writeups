@@ -140,3 +140,20 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 **Windows**
 
 - 🔒 [Trustfall](Insane/Windows/Trustfall/Trustfall.md)
+
+## Sherlocks
+
+A collection of my writeups for [HackTheBox Sherlocks](https://www.hackthebox.com/sherlocks), defensive/forensics challenges written as practice for Blue Team / DFIR skills.
+
+### Very Easy
+
+- [MangoBleed](Sherlock/Very%20Easy/MangoBleed/MangoBleed.md)
+- [PCAP Analysis](Sherlock/Very%20Easy/PCAP%20Analysis/PCAP%20Analysis.md)
+- 🔒 [PhantomRing](Sherlock/Very%20Easy/PhantomRing/PhantomRing.md)
+- [PowerShell_Script](Sherlock/Very%20Easy/PowerShell_Script/PowerShell_Script.md)
+- [Reaper](Sherlock/Very%20Easy/Reaper/Reaper.md)
+- [RomCom](Sherlock/Very%20Easy/RomCom/RomCom.md)
+- [Shellshock Attack](Sherlock/Very%20Easy/Shellshock%20Attack/Shellshock%20Attack.md)
+- [SSHole](Sherlock/Very%20Easy/SSHole/SSHole.md)
+- [Unit42](Sherlock/Very%20Easy/Unit42/Unit42.md)
+- [WordpressWebForensics](Sherlock/Very%20Easy/WordpressWebForensics/WordpressWebForensics.md)
