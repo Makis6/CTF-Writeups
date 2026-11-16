@@ -143,7 +143,7 @@ This repository only contains writeups for **retired** HackTheBox machines, or o
 
 ## Sherlocks
 
-A collection of my writeups for [HackTheBox Sherlocks](https://www.hackthebox.com/sherlocks), defensive/forensics challenges written as practice for Blue Team / DFIR skills.
+A collection of my writeups for Sherlock on Hack The Box, defensive/forensics challenges written as practice for Blue Team / DFIR skills.
 
 ### Very Easy
 
