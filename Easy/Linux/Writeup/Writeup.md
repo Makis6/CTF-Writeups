@@ -1,5 +1,5 @@
 
-<img src="Image/writeup%20logo.png" width="240">
+<img src="Images/writeup%20logo.png" width="240">
 
 
 ![Pasted image 20251014224137](Image/Pasted%20image%2020251014224137.png)

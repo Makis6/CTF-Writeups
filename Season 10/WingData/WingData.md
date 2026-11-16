@@ -1,6 +1,6 @@
 
 
-<img src="Image/wingdata%20logo.png" width="240">
+<img src="Images/wingdata%20logo.png" width="240">
 
 
 # Enumeration
